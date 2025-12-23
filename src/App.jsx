@@ -32,12 +32,6 @@ const AppContent = () => {
           ))}
         </div>
       </main>
-
-      <footer className="app-footer">
-        <p>
-          Built with React Context API, useReducer, and Custom Hooks
-        </p>
-      </footer>
     </div>
   )
 }
